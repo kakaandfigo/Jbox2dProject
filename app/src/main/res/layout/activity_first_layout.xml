@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <TextView
+            android:textSize="26sp"
+            android:textColor="@color/colorAccent"
+            android:text="我是边界"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <kaka.com.jbox2dapp.widget.JboxView
+        android:background="@mipmap/background"
+        android:layout_weight="1"
+        android:id="@+id/jbox_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"></kaka.com.jbox2dapp.widget.JboxView>
+</LinearLayout>
