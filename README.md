@@ -1,6 +1,4 @@
 # Jbox2dProject
-开门见山，一针见血~~先来一张图片再说！
-
 ![image](http://upload-images.jianshu.io/upload_images/6193595-d405ce38056b5e40.gif?imageMogr2/auto-orient/strip)
     
 ## 思路
