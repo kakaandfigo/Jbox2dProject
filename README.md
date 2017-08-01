@@ -1,9 +1,7 @@
 # Jbox2dProject
 ### 开门见山，一针见血~~先来一张图片再说！
 
-
-![](http://upload-images.jianshu.io/upload_images/6193595-d405ce38056b5e40.gif?imageMogr2/auto-orient/strip)
-
+![image](http://upload-images.jianshu.io/upload_images/6193595-d405ce38056b5e40.gif?imageMogr2/auto-orient/strip)
     
 ## 思路
 1. 创建一个JboxImpl类，专门用于管理刚体和世界的创建和逻辑计算
